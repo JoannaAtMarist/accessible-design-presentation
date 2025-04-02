@@ -1,6 +1,6 @@
 # Accessible & Inclusive Design Presentation
 
-This group presentation was created for a Systems Design course at Marist College.  
+This group presentation was created for a Systems Design course at Marist University.  
 It explores human-centered, inclusive, and accessible design principles across real-world environments including web interfaces, games, and educational settings.
 
 ## Topics Covered
